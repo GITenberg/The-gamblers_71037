@@ -1,0 +1,35 @@
+_repo: The-gamblers_71037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    - Queux, William le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: https://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2023-06-24'
+identifiers:
+  gutenberg: '71037'
+language: en
+pgterms:marc905: 20230606193628lequeux
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aUnited Kingdom :$bHutchinson & Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Monte-Carlo (Monaco) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The gamblers
+url: http://www.gutenberg.org/ebooks/71037
